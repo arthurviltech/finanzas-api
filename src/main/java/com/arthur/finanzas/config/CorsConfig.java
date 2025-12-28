@@ -1,4 +1,4 @@
-package com.tuempresa.finanzas.config;
+package com.arthur.finanzas.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

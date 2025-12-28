@@ -1,4 +1,4 @@
-package com.tuempresa.finanzas.model;
+package com.arthur.finanzas.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

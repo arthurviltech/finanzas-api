@@ -1,4 +1,4 @@
-package com.tuempresa.finanzas.controller;
+package com.arthur.finanzas.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

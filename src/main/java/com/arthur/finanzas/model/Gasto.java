@@ -1,4 +1,4 @@
-package com.tuempresa.finanzas.model;
+package com.arthur.finanzas.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -35,7 +35,7 @@ public class Gasto {
     private String categoria;
 
     @Column(nullable = false)
-    private LocalDate fecha;
+    private String fecha;
 
     @Column(nullable = false)
     private String metodoPago;

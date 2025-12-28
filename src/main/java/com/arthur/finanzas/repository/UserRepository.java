@@ -1,6 +1,6 @@
-package com.tuempresa.finanzas.repository;
+package com.arthur.finanzas.repository;
 
-import com.tuempresa.finanzas.model.User;
+import com.arthur.finanzas.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -20,6 +20,11 @@ spring:
         jdbc:
           time_zone: UTC
 
+  sql:
+    init:
+      mode: never
+      data-locations: classpath:data.sql
+
 server:
   port: 8080
   servlet:

@@ -1,4 +1,4 @@
-package com.tuempresa.finanzas;
+package com.arthur.finanzas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
